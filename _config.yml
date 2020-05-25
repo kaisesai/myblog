@@ -100,4 +100,4 @@ theme: jekyll-theme-cayman
 deploy:
   type: git
   repo: git@github.com:kaisesai/kaisesai.github.io.git
-  branch: gh-pages
+  branch: master
